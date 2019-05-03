@@ -1,1 +1,1 @@
-# awesome-powershell-azure-functions
+# Awesome Powershell Azure Functions
