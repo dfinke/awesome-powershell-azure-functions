@@ -16,6 +16,10 @@
 
 ![](https://raw.githubusercontent.com/anthonychu/functions-resource-monitor/master/powershell-func-resource-monitor.gif)
 
+## Azure Serverless Community Library
+
+- [Azure serverless community library](https://www.serverlesslibrary.net/?language=PowerShell)
+
 ## Tweets
 
 - [I'm confused, what's different here? I've been using PowerShell based Azure Functions for almost two years.](https://twitter.com/nthonyChu/status/1122543092534349824?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1122543092534349824&ref_url=https%3A%2F%2Fdevclass.com%2F2019%2F04%2F29%2Fpowershell-fans-swoon-as-microsoft-previews-azure-functions-support%2F)
