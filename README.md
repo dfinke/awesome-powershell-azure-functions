@@ -1,15 +1,17 @@
 # Awesome Powershell Azure Functions
 
-## Posts
+##  Posts
 
 - [Public Preview of PowerShell in Azure Functions 2.x](https://devblogs.microsoft.com/powershell/public-preview-of-powershell-in-azure-functions-2-x/)
 - [Create your first PowerShell function in Azure](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-powershell?ocid=AID754288&wt.mc_id=CFID0454)
+- [Azure Functions PowerShell developer guide](https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference-powershell)
 - [Powershell Functions in Azure the easy way](https://agazoth.github.io/blogpost/2019/04/29/Powershell-Functions-In-Azure-The-Easy-Way.html)
 - [Serverless automation using PowerShell preview in Azure Functions](https://azure.microsoft.com/en-us/blog/serverless-automation-using-powershell-preview-in-azure-functions/)
+
+## Actual PowerShell Azure Functions
+
 - [Event-Driven Serverless Containers with PowerShell Azure Functions and Azure Container Instances](https://dev.to/azure/event-driven-serverless-containers-with-powershell-azure-functions-and-azure-container-instances-e9b
 )
-- [Azure Functions PowerShell developer guide](https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference-powershell)
-
 - [Real-time Azure Resource Monitor](https://github.com/anthonychu/functions-resource-monitor) - Powered by PowerShell Azure Functions, Azure Event Grid, and Azure SignalR Service
 
 ![](https://raw.githubusercontent.com/anthonychu/functions-resource-monitor/master/powershell-func-resource-monitor.gif)
@@ -30,7 +32,11 @@
 
 If you're working with PowerShell AzureFunctions in code, don't forget to enable it in the [Functions extension](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-powershell).
 
-![](/images/PowerShellAzureFunctionsVSC.png)
+![](/images/posts/PowerShellAzureFunctionsVSC.png)
+
+**via*- [Anthony Chu](https://twitter.com/nthonyChu/status/1123701007400296448)
+
+
 
 ## Docker
 
