@@ -40,7 +40,7 @@ If you're working with PowerShell AzureFunctions in code, don't forget to enable
 
 ## Docker
 
-- `azure-functions/powershell:2.0` - the latest stable 2.0 function runtime for Linux with powershell worker runtime. The Dockerfile can be found [here](https://github.com/Azure/azure-functions-docker/blob/master/host/2.0/stretch/amd64/powershell.Dockerfile)
+- `mcr.microsoft.com/azure-functions/powershell:2.0` - the latest stable 2.0 function runtime for Linux with powershell worker runtime. The Dockerfile can be found [here](https://github.com/Azure/azure-functions-docker/blob/master/host/2.0/stretch/amd64/powershell.Dockerfile)
 
 ## C# and Azure Functions
 
