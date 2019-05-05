@@ -1,3 +1,5 @@
+![](/images/AzureFunctionLogo.png)
+
 # Awesome Powershell Azure Functions
 
 ##  Posts
@@ -7,6 +9,10 @@
 - [Azure Functions PowerShell developer guide](https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference-powershell)
 - [Powershell Functions in Azure the easy way](https://agazoth.github.io/blogpost/2019/04/29/Powershell-Functions-In-Azure-The-Easy-Way.html)
 - [Serverless automation using PowerShell preview in Azure Functions](https://azure.microsoft.com/en-us/blog/serverless-automation-using-powershell-preview-in-azure-functions/)
+
+## Guides
+
+- [Azure Functions PowerShell developer guide](https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference-powershell)
 
 ## Actual PowerShell Azure Functions
 
