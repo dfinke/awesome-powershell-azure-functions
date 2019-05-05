@@ -36,11 +36,7 @@
 
 If you're working with PowerShell AzureFunctions in code, don't forget to enable it in the [Functions extension](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-powershell).
 
-![](/images/posts/PowerShellAzureFunctionsVSC.png)
-
-**via*- [Anthony Chu](https://twitter.com/nthonyChu/status/1123701007400296448)
-
-
+![](/images/PowerShellAzureFunctionsVSC.png)
 
 ## Docker
 
