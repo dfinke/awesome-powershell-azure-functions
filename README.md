@@ -1,3 +1,4 @@
+![](/images/PSCoreLogo.png)
 ![](/images/AzureFunctionLogo.png)
 
 # Awesome Powershell Azure Functions
