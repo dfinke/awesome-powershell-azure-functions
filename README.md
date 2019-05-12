@@ -15,13 +15,13 @@
 
 - [Azure Functions PowerShell developer guide](https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference-powershell)
 
-## Actual PowerShell Azure Functions
+## PowerShell Azure Functions
 
 - [Event-Driven Serverless Containers with PowerShell Azure Functions and Azure Container Instances](https://dev.to/azure/event-driven-serverless-containers-with-powershell-azure-functions-and-azure-container-instances-e9b
 )
 - [Real-time Azure Resource Monitor](https://github.com/anthonychu/functions-resource-monitor) - Powered by PowerShell Azure Functions, Azure Event Grid, and Azure SignalR Service
-
-![](https://raw.githubusercontent.com/anthonychu/functions-resource-monitor/master/powershell-func-resource-monitor.gif)
+<!-- ![](https://raw.githubusercontent.com/anthonychu/functions-resource-monitor/master/powershell-func-resource-monitor.gif) -->
+- [Build real-time Apps with a PowerShell Azure Function And SignalR](https://dfinke.github.io/powershell,%20azure%20functions,%20signalr/2019/05/12/Build-real-time-Apps-with-a-PowerShell-Azure-Function-And-SignalR.html)
 
 ## Azure Serverless Community Library
 
