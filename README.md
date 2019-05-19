@@ -3,6 +3,8 @@
 
 # Awesome Powershell Azure Functions
 
+![](/images/CreatePSAzFnInPortal.png)
+
 ##  Posts
 
 - [Public Preview of PowerShell in Azure Functions 2.x](https://devblogs.microsoft.com/powershell/public-preview-of-powershell-in-azure-functions-2-x/)
@@ -23,9 +25,19 @@
 <!-- ![](https://raw.githubusercontent.com/anthonychu/functions-resource-monitor/master/powershell-func-resource-monitor.gif) -->
 - [Build real-time Apps with a PowerShell Azure Function And SignalR](https://dfinke.github.io/powershell,%20azure%20functions,%20signalr/2019/05/12/Build-real-time-Apps-with-a-PowerShell-Azure-Function-And-SignalR.html)
 
+## Debug PowerShell Azure Functions locally
+
+- [Debug PowerShell Azure Functions locally](https://docs.microsoft.com/en-us/azure/azure-functions/functions-debug-powershell-local)
+
 ## Azure Serverless Community Library
 
 - [Azure serverless community library](https://www.serverlesslibrary.net/?language=PowerShell)
+
+## Azure CosmosDB Emulator
+
+- [Getting Locally run Azure Functions going with Azure CosmosDB Emulator](http://www.tobiaswright.com/2017/10/19/Getting-Locally-run-Azure-Functions-going-with-Azure-CosmosDB-Emulator/)
+
+- [Use the Azure Cosmos Emulator for local development and testing](https://docs.microsoft.com/en-us/azure/cosmos-db/local-emulator)
 
 ## Tweets
 
@@ -44,6 +56,7 @@
 If you're working with PowerShell AzureFunctions in code, don't forget to enable it in the [Functions extension](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-powershell).
 
 ![](/images/PowerShellAzureFunctionsVSC.png)
+
 
 ## C# and Azure Functions
 
