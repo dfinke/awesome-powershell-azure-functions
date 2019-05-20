@@ -45,6 +45,7 @@
 
 ## Videos
 
+- [Operate your application & infrastructure with PowerShell in Azure Functions](https://www.youtube.com/watch?v=4IYbnaJ204Y) - Modernize the delivering and maintenance of services
 - [Serverless automation using PowerShell in Azure Functions - Azure Friday](https://www.youtube.com/watch?v=biTE9PgdOAs&feature=youtu.be&fbclid=IwAR0ES1S8vI8G5alUdjlGQDoR8BYz1G1uQeSaTGrb4dLzJPpPbWerZDcLafM)
 
 ## GitHub
