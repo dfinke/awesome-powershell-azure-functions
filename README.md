@@ -5,6 +5,10 @@
 
 ![](/images/CreatePSAzFnInPortal.png)
 
+## Azure Serverless Community Library
+
+- [Azure serverless community library](https://www.serverlesslibrary.net/?language=PowerShell)
+
 ##  Posts
 
 - [Public Preview of PowerShell in Azure Functions 2.x](https://devblogs.microsoft.com/powershell/public-preview-of-powershell-in-azure-functions-2-x/)
@@ -28,10 +32,6 @@
 ## Debug PowerShell Azure Functions locally
 
 - [Debug PowerShell Azure Functions locally](https://docs.microsoft.com/en-us/azure/azure-functions/functions-debug-powershell-local)
-
-## Azure Serverless Community Library
-
-- [Azure serverless community library](https://www.serverlesslibrary.net/?language=PowerShell)
 
 ## Azure CosmosDB Emulator
 
