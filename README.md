@@ -11,6 +11,8 @@
 
 ##  Posts
 
+- [25 Days Of Serverless in PowerShell](https://github.com/Ba4bes/25daysofserverless)
+    - [Write up](https://4bes.nl/2019/12/16/25-days-of-serverless-in-powershell-halfway-there/)
 - [Public Preview of PowerShell in Azure Functions 2.x](https://devblogs.microsoft.com/powershell/public-preview-of-powershell-in-azure-functions-2-x/)
 - [Create your first PowerShell function in Azure](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-powershell?ocid=AID754288&wt.mc_id=CFID0454)
 - [Azure Functions PowerShell developer guide](https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference-powershell)
